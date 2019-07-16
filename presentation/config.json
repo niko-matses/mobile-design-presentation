@@ -1,8 +1,8 @@
 {
-	"title": "Hello world",
+	"title": "Who's Killin It: Mobile Design",
 	"description": "An awesome presentation",
-	"author": "Sebastien Dubois",
-	"theme": "league",
+	"author": "Niko Matses",
+	"theme": "white",
 	"theme_comment": "available themes are under css/theme/: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white",
 	"customEntry": "Cool"
 }

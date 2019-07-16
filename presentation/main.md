@@ -1,21 +1,20 @@
 # {{title}}
 
-* Hello world
-* Check out this cool [link](https://www.dsebastien.net)
-
 ---
 
-## Slide 2
-
-![cool](assets/open-source-logo.png "meh")
+![cool](img/Cuisine/CookingRecipeApp_byPhamHuy.png)
 
 Note: speaker notes come down here
 
-----
+---
 
-## Slide 2.2
+![Food App Recipie](img/Cuisine/FoodAppRecipe_byAfterglow.png)
 
-* Heya from beneath
+Note: Food App Recipe by Afterglow
+
+---
+
+![Foodie](img/Cuisine/FoodOrderApp-byTasinAhmed.png)
 
 ---
 
@@ -40,7 +39,7 @@ var z = x * y;
 
 ## Slide 5
 
-* Fragments
-<!-- .element: class="fragment" -->
-* also works
-<!-- .element: class="fragment" -->
+- Fragments
+  <!-- .element: class="fragment" -->
+- also works
+  <!-- .element: class="fragment" -->
