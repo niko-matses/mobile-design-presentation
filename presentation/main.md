@@ -6,6 +6,51 @@
 
 ---
 
+# eCommerce
+
+---
+
+![eCommece Cacti](img/Screens/2_ecommercecactus-shanyui.png)
+
+----
+
+![eCommece Cacti](img/Screens/1_ecommercecactus-shanyui.png)
+
+
+----
+
+![eCommece Cacti](img/Screens/3_ecommercecactus-shanyui.png)
+
+----
+
+![eCommece Cacti](img/Screens/CactusStore_Shany.png)
+
+---
+
+# Onboarding
+
+---
+
+![Checklist Onboarding Arek](img/Screens/2_ChecklistAppOnboarding_Arek-K.png)
+
+----
+
+![Checklist Onboarding Arek](img/Screens/3_ChecklistAppOnboarding_Arek-K.png)
+
+----
+
+![Checklist Onboarding Arek](img/Screens/1_ChecklistAppOnboarding_Arek-K.png)
+
+----
+
+![Checklist Onboarding Arek](img/Screens/ChecklistAppOnboarding_Arek-K.png)
+
+---
+
+# Cuisine
+
+---
+
 ![Cooking Recipie App](img/Screens/1_CookingRecipeApp_PhamHuy.png)
 
 ----
@@ -22,42 +67,6 @@
 
 ---
 
-![eCommece Cacti](img/Screens/1_ecommercecactus-shanyui.png)
-
-----
-
-![eCommece Cacti](img/Screens/2_ecommercecactus-shanyui.png)
-
-----
-
-![eCommece Cacti](img/Screens/3_ecommercecactus-shanyui.png)
-
-----
-
-![eCommece Cacti](img/Screens/CactusStore_Shany.png)
-
----
-
-![Checklist Onboarding Arek](img/Screens/1_ChecklistAppOnboarding_Arek-K.png)
-
-----
-
-![Checklist Onboarding Arek](img/Screens/2_ChecklistAppOnboarding_Arek-K.png)
-
-----
-
-![Checklist Onboarding Arek](img/Screens/3_ChecklistAppOnboarding_Arek-K.png)
-
-----
-
-![Checklist Onboarding Arek](img/Screens/ChecklistAppOnboarding_Arek-K.png)
-
----
-
-![Food App by Afterglow](img/screens/food-app_1.png)
-
-----
-
 ![Food App by Afterglow](img/screens/food-app_2.png)
 
 ----
@@ -66,12 +75,20 @@
 
 ----
 
+![Food App by Afterglow](img/screens/food-app_1.png)
+
+----
+
 ![Video: Food App by Afterglow](img/screens/FoodAppRecipe_Afterglow.gif)
 <!-- .element: class="w-100" -->
 
 ---
 
-- Fragments
+![Cuberto Logo](img/Cuberto/cuberto-logo.png)
+<!-- .element: class="defaultsize" -->
+
+# Cuberto
+
+Alexandria, VA | London, UK
   <!-- .element: class="fragment" -->
-- also works
-  <!-- .element: class="fragment" -->
+

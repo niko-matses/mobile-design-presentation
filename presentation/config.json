@@ -2,7 +2,7 @@
 	"title": "Who's Killin It: Mobile Design",
 	"description": "An awesome presentation",
 	"author": "Niko Matses",
-	"theme": "serif",
+	"theme": "white",
 	"theme_comment": "available themes are under css/theme/: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white",
 	"customEntry": "Cool"
 }
