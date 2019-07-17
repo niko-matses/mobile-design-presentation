@@ -1,6 +1,6 @@
 ---
 
-# So, What Did You Notice?
+# So, What Trends Did You Spot?
 
 ---
 
@@ -168,6 +168,6 @@ Earth
 
 [Dribble](https://dribbble.com/AntonSKV)
 
+---
 
-# Thank You!
-  <!-- .element: class="fragment" -->
+# Thanks For Watching!

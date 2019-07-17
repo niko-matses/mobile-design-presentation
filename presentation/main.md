@@ -172,7 +172,7 @@
 
 ![Cooking Recipie App](img/Screens/CookingRecipeApp_byPhamHuy.png)
 
----
+----
 
 ![Food Order App](img/TasinAhmed/FoodOrderApp-byTasinAhmed.png)
 
@@ -199,15 +199,18 @@
 ----
 
 ![Food App by Afterglow](img/screens/FoodAppRecipe_Afterglow.gif)
-<!-- .element: class="w-100" -->
 
 ---
 
 ![Recipie Sharing](img/Motion/Static2-RecipeSharingFoodChannel_Dannniel_Marcato.png)
 
----
+----
 
 ![Recipie Sharing](img/Motion/Static-RecipeSharingFoodChannel_Dannniel_Marcato.png)
+
+----
+
+![Recipie Sharing](img/Motion/RecipeSharingFoodChannel_Dannniel_Marcato.gif)
 
 ---
 
@@ -309,7 +312,7 @@
 
 ![Golf AR](img/RonDesignLab/ARGolfApp_RonDesignLab.png)
 
---- 
+---
 
 ![Cinema Tickets](img/Motion/CinemaAppConcept_AntonSkvortsov.gif)
 
@@ -317,7 +320,7 @@
 
 ![Safari Tour](img/Motion/SYExpedition_AntonSkvortsov.gif)
 
---- 
+---
 
 ![News App](img/Motion/NewsApp_LukasStranak_PLATFORM.gif)
 
