@@ -67,6 +67,7 @@
 ----
 
 ![Video: Food App by Afterglow](img/screens/FoodAppRecipe_Afterglow.gif)
+<!-- .element: class="w-100" -->
 
 ---
 
