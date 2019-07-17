@@ -2,42 +2,55 @@
 
 ---
 
-![cool](img/Cuisine/CookingRecipeApp_byPhamHuy.png)
-
-Note: speaker notes come down here
+# 192.168.1.152:3000
 
 ---
 
-![Food App Recipie](img/Cuisine/FoodAppRecipe_byAfterglow.png)
-
-Note: Food App Recipe by Afterglow
+![Cooking Recipie App](img/Screens/1_CookingRecipeApp_PhamHuy.png)
 
 ---
 
-![Foodie](img/Cuisine/FoodOrderApp-byTasinAhmed.png)
+![Cooking Recipie App](img/Screens/2_CookingRecipeApp_PhamHuy.png)
 
 ---
 
-## Slide 3
-
-> I quote...
+![Cooking Recipie App](img/Screens/3_CookingRecipeApp_PhamHuy.png)
 
 ---
 
-## Slide 4
-
-I've also got some `code()`; even some code blocks:
-
-```
-var x = 0;
-var y = 1;
-
-var z = x * y;
-```
+![Cooking Recipie App](img/Screens/CookingRecipeApp_byPhamHuy.png)
 
 ---
 
-## Slide 5
+![eCommece Cacti](img/Screens/1_ecommercecactus-shanyui.png)
+
+---
+
+![eCommece Cacti](img/Screens/2_ecommercecactus-shanyui.png)
+
+---
+
+![eCommece Cacti](img/Screens/3_ecommercecactus-shanyui.png)
+
+---
+
+![eCommece Cacti](img/Screens/CactusStore_Shany.png)
+
+---
+
+![Checklist Onboarding Arek](img/Screens/1_ChecklistAppOnboarding_Arek-K.png)
+
+---
+
+![Checklist Onboarding Arek](img/Screens/2_ChecklistAppOnboarding_Arek-K.png)
+
+---
+
+![Checklist Onboarding Arek](img/Screens/3_ChecklistAppOnboarding_Arek-K.png)
+
+---
+
+![Checklist Onboarding Arek](img/Screens/ChecklistAppOnboarding_Arek-K.png)
 
 - Fragments
   <!-- .element: class="fragment" -->
