@@ -2,6 +2,40 @@
 
 # So, What Trends Did You Spot?
 
+----
+
+- Rounded corners
+- Subtle shadows
+- Solid blocks of color
+- Lots of gradients
+- Flat Illustration
+- Bright, high-end photography 
+- Overlapping shapes
+- Silhouetted images
+- Simple (but effective) icons
+- Variety of mock-up styles
+
+----
+
+- Few words per “view”
+- One task at a time
+- Several places for navigation
+- Preview to off-screen content
+- Contrast in scale
+- Top notch typography
+- Smooth animations 
+- Spatial screen transitions 
+- Healthy negative space
+- Vibrant (but limited) palettes
+
+---
+
+# We've learned the What, now for the How...
+
+----
+
+# How might we get Primary on the mobile map?
+
 ---
 
 # Credits
@@ -9,10 +43,10 @@
 ---
 
 # Halcyon Mobile
-Transylvania
+🇷🇴 Transylvania, Romania
 
-[Website](https://halcyonmobile.com) | 
-[Dribble](https://dribbble.com/halcyonmobile)
+[🌐](https://halcyonmobile.com)
+[🏀](https://dribbble.com/halcyonmobile)
 
 ----
 
@@ -20,60 +54,67 @@ Transylvania
 <!-- .element: class="defaultsize" -->
 # Cuberto
 
-Alexandria, VA | London, UK
+🇺🇸 Alexandria, VA 🇬🇧 London, UK
 
-[Website](https://cuberto.com) | 
-[Dribble](https://dribbble.com/cuberto)
+[🌐](https://cuberto.com) 
+[🏀](https://dribbble.com/cuberto)
 
 ----
 
 # RonDesignLab
-Los Angeles, CA
+🇺🇸 Los Angeles, CA
 
-[Website](https://dribbble.com/RonDesignLab) | 
-[Dribble](https://rondesignlab.com)
+[🌐](https://dribbble.com/RonDesignLab) 
+[🏀](https://rondesignlab.com)
 
 ----
 
 # Halo Lab
-San Fransisco, CA
+🇺🇸 San Fransisco, CA
 
-[Website](https://halo-lab.com/) | 
-[Dribble](https://dribbble.com/halolab)
+[🌐](https://halo-lab.com/) 
+[🏀](https://dribbble.com/halolab)
 
 ----
 
 # Codahead
-Krakow, Poland
+🇵🇱 Krakow, Poland
 
-[Website](https://codahead.com) | 
-[Dribble](https://dribbble.com/Codahead)
+[🌐](https://codahead.com) 
+[🏀](https://dribbble.com/Codahead)
 
-
-----
-
-# Afterglow
-Europe
-
-[Website](http://afterglow.ai) | 
-[Dribble](https://dribbble.com/Afterglow-studio)
 
 ----
 
 # Geex Arts
-Moscow, Russia
+🇷🇺  Moscow, Russia
 
-[Website](https://geex-arts.com/) | 
-[Dribble](https://dribbble.com/GeexArts)
+[🌐](https://geex-arts.com/) 
+[🏀](https://dribbble.com/GeexArts)
 
+----
+
+# Afterglow
+🇪🇺 Europe
+
+[🌐](http://afterglow.ai) 
+[🏀](https://dribbble.com/Afterglow-studio)
 
 ----
 
 # Marcato Studio
-San Fransico, CA
+🇺🇸 San Fransico, CA
 
-[Website](https://www.marcatostudio.com/) | 
-[Dribble](https://dribbble.com/marcato)
+[🌐](https://www.marcatostudio.com/) 
+[🏀](https://dribbble.com/marcato)
+
+----
+
+# Zypsy
+🇺🇸 San Fransico, CA
+[🌐](https://zypsy.com) 
+[🏀](https://dribbble.com/zypsy)
+
 
 ---
 
@@ -82,92 +123,91 @@ San Fransico, CA
 ---
 
 # Yi Li
-Montreal, Canada
+🇨🇦 Montreal, Canada
 
-[Dribble](https://dribbble.com/coreyliyi)
+[🏀](https://dribbble.com/coreyliyi)
 
 ----
 
 # Tasin Ahmed
-Sylhet, Bangladesh
+🇧🇩 Sylhet, Bangladesh
 
-[Website]() | 
-[Dribble]()
+[🏀](https://dribbble.com/mrtasin)
 
 ----
 
 # Lorenzo Perniciaro
-Italy
+🇮🇹 Rome, Italy
 
-[Website]() | 
-[Dribble]()
+[🌐](http://www.lorenzoperniciaro.com/) 
+[🏀](https://dribbble.com/Lorez)
 
 ----
 
 # Stephane Vasadze
-Moscow, Russia
+🇷🇺 Moscow, Russia
 
-[Dribble](https://dribbble.com/vsdsgn_)
+[🏀](https://dribbble.com/vsdsgn_)
 
 ----
 
 # Pham Huy
-HCM, Vietnam
+🇻🇳 HCM, Vietnam
 
-[Website]() | 
-[Dribble](https://dribbble.com/pnhathuy09)
+[🌐]() 
+[🏀](https://dribbble.com/pnhathuy09)
 
 ----
 
 # Marina Logunova
-Kyiv, Ukraine
+🇺🇦 Kyiv, Ukraine
 
-[Dribble](https://dribbble.com/marinalogunova)
+[🏀](https://dribbble.com/marinalogunova)
 
 ----
 
 # Michał Jakobsze
-Poznań, Poland
+🇵🇱 Poznań, Poland
 
-[Website](http://michaljakobsze.pl/) | 
-[Dribble](https://dribbble.com/mjakobsze)
+[🌐](http://michaljakobsze.pl/) 
+[🏀](https://dribbble.com/mjakobsze)
 
 ----
 
 # Kuba Zelichowski
-Krakow, Poland
+🇵🇱 Krakow, Poland
 
-[Website](http://kubazelichowski.com/) |
-[Dribble](https://dribbble.com/kubazelichowski)
-
-----
-
-# Shany
-Lima, Perú
-
-[Dribble](https://dribbble.com/shanysantisteban)
+[🌐](http://kubazelichowski.com/)
+[🏀](https://dribbble.com/kubazelichowski)
 
 ----
 
 # Kévin Gautier
-Paris
+🇫🇷 Paris, France
 
-[Dribble](https://dribbble.com/KEVINGAUTIER)
+[🏀](https://dribbble.com/KEVINGAUTIER)
+
+----
+
+# Shany
+🇵🇪 Lima, Perú
+
+[🏀](https://dribbble.com/shanysantisteban)
 
 ----
 
 # Arek K.
-Europe
+🇪🇺 Europe
 
-[Dribble](https://dribbble.com/Arek_k)
+[🏀](https://dribbble.com/Arek_k)
 
 ----
 
 # Anton Skvortsov
-Earth
+🌍 Earth
 
-[Dribble](https://dribbble.com/AntonSKV)
+[🏀](https://dribbble.com/AntonSKV)
 
 ---
 
-# Thanks For Watching!
+# Thank you, have a great day!

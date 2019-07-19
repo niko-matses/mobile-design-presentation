@@ -2,15 +2,90 @@
 
 ---
 
-## Table Of Contents
+# Format
 
-- Onboarding
-- eCommerce
-- Cuisine
-- Travel
-- Real Estate
-- Misc
-- Credits
+- 5 minute intro
+<!-- .element: class="fragment" -->
+- 6 categories, 5 min each
+<!-- .element: class="fragment" -->
+- Per slide - Concept, Navigation, CTA
+<!-- .element: class="fragment" -->
+- Per category - Share your thoughts 💭
+<!-- .element: class="fragment" -->
+
+---
+
+# Table O' Contents
+
+1. Intro
+2. Onboarding
+3. eCommerce
+4. Cuisine
+5. Travel
+6. Real Estate
+7. Miscellaneous
+8. Conclusion
+9. Credits
+
+---
+
+# Apps: Web vs Native
+
+- Native apps easily tap into your device hardware
+<!-- .element: class="fragment" -->
+- But the software in web browsers is advancing
+<!-- .element: class="fragment" -->
+- Web apps can now look and feel like Native apps
+<!-- .element: class="fragment" -->
+- Either way, the the future of web is 📱
+<!-- .element: class="fragment" -->
+
+---
+
+# Benefits of Web Apps
+
+- Functional with any (modern) OS
+<!-- .element: class="fragment" -->
+- Guaranteed future-proof
+<!-- .element: class="fragment" -->
+- No downloads / installs
+<!-- .element: class="fragment" -->
+- No App Store submission process
+<!-- .element: class="fragment" -->
+- No App Store rating system (good and bad)
+<!-- .element: class="fragment" -->
+
+---
+
+[<img src="img/SearchEngineRanking.png" target="_blank">](https://calibreapp.com/blog/how-pagespeed-works/)
+
+----
+
+## 2018 Google Algorithm Update
+
+- In March,indexing became based on the mobile version of a page, rather than desktop.
+<!-- .element: class="fragment" -->
+- In July, SEO ranking includes page speed as a ranking factor for both mobile pages and ads.
+<!-- .element: class="fragment" -->
+
+----
+
+## Two truths 
+
+- The speed of your site on mobile will affect your overall SEO ranking
+<!-- .element: class="fragment" -->
+- If pages load slowly, it will reduce Ad Quality Score, and ads will cost more
+<!-- .element: class="fragment" -->
+
+---
+
+# Keep an 👁 out for 
+
+- Styles, Voice & Tone
+- Design Patterns / Components 
+- Visual Language / Cues
+- Presentation of Work
+- Common themes
 
 ---
 
@@ -130,6 +205,10 @@
 
 ---
 
+![Golf AR](img/RonDesignLab/ARGolfApp_RonDesignLab.png)
+
+---
+
 ![Kawasaki Bikes](img/HaloLab/KawasakiConcept_ArtemBorysenko_HaloLab.png)
 
 ---
@@ -178,14 +257,6 @@
 
 ---
 
-![Food Delivery App](img/TasinAhmed/FreshFoodDelivery_Tasin.png)
-
-----
-
-![Food Delivery App](img/TasinAhmed/FreshFoodDeliveryAppUI-byTasinAhmed.png)
-
----
-
 ![Food App by Afterglow](img/screens/food-app_2.png)
 
 ----
@@ -199,6 +270,18 @@
 ----
 
 ![Food App by Afterglow](img/screens/FoodAppRecipe_Afterglow.gif)
+
+---
+
+![Food Delivery App](img/TasinAhmed/FreshFoodDelivery_Tasin.png)
+
+----
+
+![Food Delivery App](img/TasinAhmed/FreshFoodDeliveryAppUI-byTasinAhmed.png)
+
+---
+
+![Pizza Ordering](img/Motion/PiccoloSelfOrderApp_Andrew_Zypsy.gif)
 
 ---
 
@@ -242,18 +325,6 @@
 
 ---
 
-![Cabin Finder Mobile](img/Desktop/Cabin&WildMobileScreens_NathanRiley_GreenChameleon.jpg)
-
-----
-
-![Cabin Finder Desktop](img/Desktop/Cabin&WildLakeSide_NathanRiley_GreenChameleon.jpg)
-
-----
-
-![Cabin Finder Desktop](img/Desktop/Cabin&WildLost_NathanRiley_GreenChameleon.jpg)
-
----
-
 ![National Park Guide](/img/Motion/CaliforniaNationalParkGuide_KevinGautier.gif)
 
 ---
@@ -267,6 +338,18 @@
 ---
 
 # Real Estate
+
+---
+
+![Cabin Finder Mobile](img/Desktop/Cabin&WildMobileScreens_NathanRiley_GreenChameleon.jpg)
+
+----
+
+![Cabin Finder Desktop](img/Desktop/Cabin&WildLakeSide_NathanRiley_GreenChameleon.jpg)
+
+----
+
+![Cabin Finder Desktop](img/Desktop/Cabin&WildLost_NathanRiley_GreenChameleon.jpg)
 
 ---
 
@@ -307,10 +390,6 @@
 ---
 
 ![Pet Adoption](img/Other/PetsAdoptionApp_MarinaLogunova_Ukraine.png)
-
----
-
-![Golf AR](img/RonDesignLab/ARGolfApp_RonDesignLab.png)
 
 ---
 
