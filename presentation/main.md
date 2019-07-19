@@ -63,14 +63,14 @@
 
 ## 2018 Google Algorithm Update
 
-- In March,indexing became based on the mobile version of a page, rather than desktop.
+- In March, indexing became based on the mobile version of a page, rather than desktop.
 <!-- .element: class="fragment" -->
 - In July, SEO ranking includes page speed as a ranking factor for both mobile pages and ads.
 <!-- .element: class="fragment" -->
 
 ----
 
-## Two truths 
+## So what? 
 
 - The speed of your site on mobile will affect your overall SEO ranking
 <!-- .element: class="fragment" -->
@@ -142,6 +142,10 @@
 ----
 
 ![Amex for Small Business](img/Other/AmericanExpressEstablishments_byShany.png)
+
+---
+
+![Financial Future](img/Motion/FinancialFuture_ranganath_krishnamani_LiquidinkDesign.gif)
 
 ---
 
@@ -251,10 +255,6 @@
 
 ![Cooking Recipie App](img/Screens/CookingRecipeApp_byPhamHuy.png)
 
-----
-
-![Food Order App](img/TasinAhmed/FoodOrderApp-byTasinAhmed.png)
-
 ---
 
 ![Food App by Afterglow](img/screens/food-app_2.png)
@@ -270,6 +270,10 @@
 ----
 
 ![Food App by Afterglow](img/screens/FoodAppRecipe_Afterglow.gif)
+
+---
+
+![Food Order App](img/TasinAhmed/FoodOrderApp-byTasinAhmed.png)
 
 ---
 
@@ -325,6 +329,18 @@
 
 ---
 
+![Kayak Rental](/img/Screens/Discover_Kayaking_YiLi_Hiwow_1.png)
+
+----
+
+![Kayak Rental](/img/Screens/Discover_Kayaking_YiLi_Hiwow_2.png)
+
+----
+
+![Kayak Rental](/img/Screens/Discover_Kayaking_YiLi_Hiwow_2x.png)
+
+---
+
 ![National Park Guide](/img/Motion/CaliforniaNationalParkGuide_KevinGautier.gif)
 
 ---
@@ -359,13 +375,21 @@
 
 ![Real Estate Search](img/Cuberto/RealEstateSearchApp_Cuberto.png)
 
+---
+
+![Travel App Motion](img/Motion/TravelArticleApplication_Crank_B&B.gif)
+
 ----
 
-![Real Estate Motoin](img/Cuberto/RealEstateAppBookingProcess_Cuberto_ezgif.gif)
+![Travel App Motion](img/Motion/TravelArticleApplication_Crank_B&B.png)
 
 ---
 
-![Unknown](img/Other/dribbble_new_copy.png)
+![Mariott Luxury](img/Other/dribbble_new_copy.png)
+
+---
+
+![Real Estate Mobile](img/Other/RealEstateMobileApp_MaheshKantariya.png)
 
 ---
 

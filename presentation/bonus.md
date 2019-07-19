@@ -50,11 +50,9 @@
 
 ----
 
-![Cuberto Logo](img/Cuberto/cuberto-logo.png)
-<!-- .element: class="defaultsize" -->
 # Cuberto
 
-🇺🇸 Alexandria, VA 🇬🇧 London, UK
+🇺🇸 Alexandria, VA | 🇬🇧 London, UK
 
 [🌐](https://cuberto.com) 
 [🏀](https://dribbble.com/cuberto)
@@ -94,11 +92,26 @@
 
 ----
 
+# LiquidInk Design
+🇮🇳 Bangalore, India
+
+[🌐](http://www.liquidink.design/)
+[🏀](https://dribbble.com/liquidinkdesign)
+
+----
+
 # Afterglow
 🇪🇺 Europe
 
 [🌐](http://afterglow.ai) 
 [🏀](https://dribbble.com/Afterglow-studio)
+
+----
+
+# B&B
+China 
+
+[🏀](https://dribbble.com/bbteam)
 
 ----
 
@@ -112,6 +125,7 @@
 
 # Zypsy
 🇺🇸 San Fransico, CA
+
 [🌐](https://zypsy.com) 
 [🏀](https://dribbble.com/zypsy)
 
@@ -141,6 +155,13 @@
 
 [🌐](http://www.lorenzoperniciaro.com/) 
 [🏀](https://dribbble.com/Lorez)
+
+----
+
+# Mahesh Kantariya
+🇮🇳 Ahmedabad, India
+
+[🏀](https://dribbble.com/mkantariya)
 
 ----
 
@@ -210,4 +231,4 @@
 
 ---
 
-# Thank you, have a great day!
+# Thank you, have a warm weekend!
